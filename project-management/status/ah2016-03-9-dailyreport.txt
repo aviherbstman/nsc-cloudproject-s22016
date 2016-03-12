@@ -1,0 +1,15 @@
+AD440
+3/9/16
+
+Status Report 26:
+
+1)  I began work on update tags page.  Created search box and worked
+    on grabbing the file name to send in header.
+ 
+
+2) Continuing to work on updating the js activity to send the information into
+   header. 
+
+3  Not at all sure how to integrate twitter oAth login and token into our project. 
+   
+   
