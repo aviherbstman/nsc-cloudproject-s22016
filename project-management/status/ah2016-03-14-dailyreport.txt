@@ -1,0 +1,19 @@
+AD440
+3/14/16
+
+Status Report 29:
+
+1)  Index page now has search box
+    and has submit button.  Js Activity is updated to submit tag info to header. 
+    
+ 
+
+2) Project needs word coding the image into 64 and also updating tages. 
+   Continuing to work on updating the js activity to send the information into
+   header still need to grab the file name to send with the tags. 
+
+3 Struggling to figure out how to grab the file name...was able to grab the file url
+  and place into the value of the text box to be sent.  
+  Not at all sure how to integrate twitter oAth login and token into our project. 
+   
+   
